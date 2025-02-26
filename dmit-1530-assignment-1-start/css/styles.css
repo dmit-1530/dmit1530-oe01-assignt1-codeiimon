@@ -116,6 +116,18 @@ nav > ul {
     gap: 2rem;
 }
 
+.section-gallery-three {
+    background-color: var(--blue-grey-200);
+    text-align: left;
+    color: white
+}
+
+.section-gallery-four {
+    background-color: var(--blue-grey-900);
+    text-align: left;
+    color: white;
+}
+
 
 h1 {
     font-weight: 300;
